@@ -9,8 +9,8 @@ Full Stack Dev powered by React/Next.js and strong CS principles. Highly motivat
 * 🌍  I'm based in Southern California, USA.
 * 🖥️  See my portfolio at [this link!](http://theahmedjoy.github.io/E-portfolio-Ahmed-Ali/)
 * ✉️  You can contact me at [theahmedjoyali@gmail.com](mailto:theahmedjoyali@gmail.com)
-* 🧠  I'm currently learning everything and anything Web!
-* 👥  I'm looking to collaborate on everything and anything Web!
+* 🧠  I'm currently learning everything and anything Full Stack!
+* 👥  I'm looking to collaborate on everything and anything Full Stack!
 * 💬  An extra fun bit about me is that I'm an avid Warhammer 40K player and lore reader!
 
 <p align="left">
