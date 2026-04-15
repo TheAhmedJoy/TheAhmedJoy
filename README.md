@@ -7,7 +7,7 @@ Full Stack Developer
 Full Stack Dev powered by React/Next.js and strong CS principles. Highly motivated, detail-oriented with a strong passion for building and learning innovative, and scalable solutions. 💻 Former SDET, so I build it right the first time (mostly).
 
 * 🌍  I'm based in Southern California, USA.
-* 🖥️  See my portfolio at [this link!]([https://ahmed-ali-portfolio-kappa.vercel.app/)
+* 🖥️  See my portfolio at [this link!](https://ahmed-ali-portfolio-kappa.vercel.app/)
 * ✉️  You can contact me at [theahmedjoyali@gmail.com](mailto:theahmedjoyali@gmail.com)
 * 🧠  I'm currently learning everything and anything Full Stack!
 * 👥  I'm looking to collaborate on everything and anything Full Stack!
