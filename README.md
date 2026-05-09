@@ -1,5 +1,5 @@
 # 💫 About Me:
-ull Stack Dev powered by React/Next.js and strong CS principles. Highly motivated, detail-oriented with a strong passion for building and learning innovative, and scalable solutions. 💻 Former SDET, so I build it right the first time (mostly).<br><br>🌍 I'm based in Southern California, USA.<br>🖥️ See my portfolio at this link!<br>✉️ You can contact me at theahmedjoyali@gmail.com<br>🧠 I'm currently learning everything and anything Full Stack!<br>👥 I'm looking to collaborate on everything and anything Full Stack!<br>💬 An extra fun bit about me is that I'm an avid Warhammer 40K player and lore reader!
+Full Stack Dev powered by React/Next.js and strong CS principles. Highly motivated, detail-oriented with a strong passion for building and learning innovative, and scalable solutions. 💻 Former SDET, so I build it right the first time (mostly).<br><br>🌍 I'm based in Southern California, USA.<br>🖥️ See my portfolio at this link!<br>✉️ You can contact me at theahmedjoyali@gmail.com<br>🧠 I'm currently learning everything and anything Full Stack!<br>👥 I'm looking to collaborate on everything and anything Full Stack!<br>💬 An extra fun bit about me is that I'm an avid Warhammer 40K player and lore reader!
 
 
 ## 🌐 Socials:
